@@ -1,4 +1,4 @@
-function Circles(count){
+function Circles(count = 1){
     this.count = count;
 
     this.drawCircles = function(){

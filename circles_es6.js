@@ -1,5 +1,5 @@
 class Circles{
-    constructor(count){
+    constructor(count = 1){
         this.count = count;
     }
 
